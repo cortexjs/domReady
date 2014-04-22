@@ -1,5 +1,5 @@
 {
-    "name": "domReady",
+    "name": "domready",
     "version": "2.0.1",
     "description": "An loader module for detecting DOM ready",
     "keywords": [
