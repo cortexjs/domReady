@@ -1,8 +1,8 @@
 # domReady
 
-An AMD loader plugin for detecting DOM ready.
+An module for detecting DOM ready.
 
-Known to work in RequireJS, but should work in other
+Known to work in RequireJS, but should work in other, now adding support for cortexjs
 AMD loaders that support the same loader plugin API.
 
 ## Docs
